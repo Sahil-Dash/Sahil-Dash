@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently Working On :- React, NextJs, Typescript, Express, Django, Mongo... etc<br><br>Currently  Learning :- React Native, Appwrite<br><br>
+Currently Working On :- React, Node.js Express, Mongo <br><br>Currently  Learning :- Ruby and Rails <br><br>
 
 
 # 💻 Tech Stack:
